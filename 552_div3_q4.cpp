@@ -12,7 +12,7 @@ int main()
   for (long i=0;i<n;i++)
     cin>>arr[i];
   long st=0;
-  for(int i=0;i<n;i++)
+  for(int i=0;i<n;i++)//jai mata dii
   {
     if(b>0||a>0)
     {
